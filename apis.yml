@@ -1,0 +1,32 @@
+aid: randomfox
+name: RandomFox
+description: "Random pictures of foxes"
+url: https://randomfox.ca/floof/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Animals"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Animals
+  - Public APIs
+apis:
+  - name: RandomFox
+    description: "Random pictures of foxes"
+    humanURL: https://randomfox.ca/floof/
+    baseURL: https://randomfox.ca/floof/
+    tags:
+      - Animals
+    properties:
+      - type: Documentation
+        url: https://randomfox.ca/floof/
+common:
+  - type: Website
+    url: https://randomfox.ca/floof/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
