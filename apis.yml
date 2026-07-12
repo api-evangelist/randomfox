@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://randomfox.ca/floof/
 common:
+  - type: DomainSecurity
+    url: security/randomfox-domain-security.yml
   - type: Website
     url: https://randomfox.ca/floof/
   - type: PublicAPIsListing
